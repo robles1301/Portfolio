@@ -1,0 +1,5 @@
+Debes añadir al porfolio los siguietes repositorios, son proyecto que he realizado durante la carrera:
+https://github.com/juanmariabravo/IPOkemon_UWP_2025.git
+https://github.com/robles1301/Ingenier-a-de-la-consciencia-.git
+https://github.com/robles1301/Lab_GSI.git
+https://github.com/carloosnaranjo/IPO-II-RutasQuijote.git

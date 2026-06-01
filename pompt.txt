@@ -1,0 +1,52 @@
+Crea un portfolio profesional moderno, minimalista y tecnológico para un estudiante de Ingeniería Informática especializado en Tecnologías de la Información, debes añadir la imagenCV y además crea un CV en forma de pdf que a partir de un botón se pueda descargar.
+
+El portfolio debe transmitir una imagen profesional orientada a la ciberseguridad, redes, sistemas y desarrollo web.
+
+Información personal y académica
+Estudiante de Ingeniería Informática especializado en Tecnologías de la Información.
+Universidad: Escuela Superior de Informática (ESI) de la Universidad de Castilla-La Mancha.
+Inicio de carrera: Septiembre 2022.
+Finalización estimada: 2027.
+Modalidad bilingüe.
+Experiencia internacional
+Erasmus en Italia.
+La experiencia internacional ha desarrollado autonomía, adaptación y capacidad de trabajo en equipo en entornos multiculturales.
+Áreas de interés
+Gestión y administración de redes.
+Ciberseguridad.
+Desarrollo web.
+Administración de sistemas.
+Tecnologías y herramientas
+
+Lenguajes:
+
+Java
+C
+Python
+HTML
+CSS
+
+Sistemas:
+
+Linux
+Windows
+
+Herramientas:
+
+Git / GitHub
+SQL / bases de datos
+Docker
+Maven
+VirtualBox
+VMware
+Cisco Packet Tracer
+Idiomas
+Español nativo
+Inglés B2
+Italiano nivel medio
+Soft Skills
+Trabajo en equipo
+Resolución de problemas
+Aprendizaje rápido
+Adaptabilidad
+Comunicación técnica
